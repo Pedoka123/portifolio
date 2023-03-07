@@ -1,0 +1,66 @@
+.perfil{
+    border-radius: 100%;
+    max-width: 200px;
+    border: 1px solid black;
+    float: left;
+    
+}
+
+body{
+    background-color: rgb(240, 223, 202);
+ 
+}
+
+.Titulo{
+    text-align: center;
+    text-decoration-line: underline;
+    font-weight: bold;
+    padding: 25px 25px 25px 25px;
+    border:0px solid #0c0f06;
+    margin: 10px;
+}
+
+.Curriculo{
+    position: absolute;
+  right: 500px;
+  width: 500px;
+ 
+  font-size: 120%;
+
+
+}
+
+h2{
+    background-color: rgb(230, 199, 178);
+    text-transform:capitalize;
+    width: 190%;
+
+    
+}
+
+#rodape{
+    display: flex;
+    flex-direction: column;
+    border: solid black;
+    position:absolute;
+    height: 39%;
+    bottom: 0;
+    padding-left: 5%;
+    justify-content: space-between;
+
+  }
+
+  /* tipos{
+    background-color:;
+    width:190px;
+    height:300px;
+    object-fit: cover;
+    text-align: left;
+    font-size: 25px;
+  }
+
+  .H{
+  list-style:outside;
+
+  }
+   */
